@@ -1,5 +1,17 @@
-# Mi Twitter Clon 🐦
-Clon simplificado de Twitter utilizando React. La aplicación permitirá a los usuarios ver una línea de tiempo de tweets, publicar nuevos tweets y dar "me gusta" a los tweets. Implementaremos componentes funcionales, manejaremos el estado con useState, utilizaremos hooks adicionales, gestionaremos rutas con React Router y aplicaremos renderizado condicional. Como medio de almacenamiento, usaremos localStorage.
+# 🐦 Mi Twitter Clon
+
+Este proyecto es un clon básico de Twitter creado con **React**. Permite a los usuarios publicar tweets, dar "me gusta", y almacenar los tweets localmente en el navegador.
+
+---
+
+## 🚀 Funcionalidades
+
+- ✅ Publicar nuevos tweets
+- ❤️ Dar "me gusta" a un tweet
+- 💾 Persistencia en `localStorage`
+- 🧭 Navegación entre páginas con React Router
+
+---
 
 ## Estructura del Proyecto
 ```
